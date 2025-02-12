@@ -21,24 +21,26 @@ Additional supporting packages:
 - tqdm
 
 ### Stucture
-1. Reading data (#import-SNLI–splitting-data
-    - SNLI dataset import
-    - Datasplit
+1. Reading data
+       - SNLI dataset import
+       - Datasplit
 
-    
-(1) [Processing with spaCy](#obtain-spaCydocs)
-(2) [Create Features](#feature-extraction--feature-combination)
-Shallow feature functions
-Smart features functions
-Combining feature functions (sentence-level and problem-level)
-⿤ [Training and Evaluation](#model-training--evaluation) 
-First evaluation on pre-dev set
-Finding optimal hyperparameters with SNLI dev set
-Final evaluation on SNLI test set
-⿥ [Analysis](#analysis--interpretation) 
-Smart feature effectiveness
-Shallow feature effectiveness
-Displaying decision tree splits
+2. Processing with spaCy
+
+3. Create Features 
+        - Shallow feature functions
+        - Smart features functions
+        - Combining feature functions (sentence-level and problem-level)
+   
+4. Training and Evaluation
+       - First evaluation on pre-dev set
+       - Finding optimal hyperparameters with SNLI dev set
+       - Final evaluation on SNLI test set
+   
+5. Analysis
+       - Smart feature effectiveness
+       - Shallow feature effectiveness
+       - Displaying decision tree splits
 
 ### How to run the Notebook
 The Notebook is one file containing all the necessary links and downloads to run the code. To make it work, it is needed to start at the beginning.
