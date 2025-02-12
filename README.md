@@ -8,7 +8,7 @@ Two types of features, smart and shallow, are extracted in various methods. Some
 The code is written in a Python Notebook using Google Colab.
 
 *Necessary datasets*
-- SNLI
+- Stanford Natural Language Inference (SNLI) dataset
 
 *Main packages*
 - Assigntools LoLa (to download and read the SNLI dataset)
