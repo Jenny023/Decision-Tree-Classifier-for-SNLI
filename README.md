@@ -1,5 +1,5 @@
 # Decision-Tree-Classifier-for-SNLI
-This page contains the adjusted code of Dr. L. Abzianidze, written by group 9 of the Logic and Language Course 2024-2025 (Aniek, Anne and Jennifer)
+This page contains the adjusted code of Dr. L. Abzianidze, written by group 9 of the Logic and Language Course 2024-2025.
 
 This project explores feature-based approaches for Natural Language Inference (NLI), by using the Scikit-Learn decision tree classifier. 
 Two types of features, smart and shallow, are extracted in various methods. Some make use of spaCy and WordNet among other Python libraries.
@@ -53,8 +53,8 @@ The Notebook is one file containing all the necessary links and downloads to run
 ### References
 Code used from Dr. L. Abzianidze (l.abzianidze@uu.nl).
 Adjusted by:
-- Anne Leendertse (a.leendertse@students.uu.nl)
-- Jennifer Batchelor (j.s.batchelor@students.uu.nl)
+- A. Leendertse (a.leendertse@students.uu.nl)
+- J.S. Batchelor (j.s.batchelor@students.uu.nl)
 
 For more information about the Stanford Natural Language Inference (SNLI) dataset: https://nlp.stanford.edu/projects/snli/ 
 
