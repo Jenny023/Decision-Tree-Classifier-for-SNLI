@@ -7,10 +7,11 @@ Two types of features, smart and shallow, are extracted in various methods. Some
 ### Installation & Set-Up
 The code is written in a Jupyter Notebook using Google Colab.
 
-Necessary datasets:
-*hello
+Necessary datasets
+- 
 
-Necessary packages:
+Necessary packages
+- N
 
 
 ### Stucture
