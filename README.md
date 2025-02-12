@@ -43,7 +43,7 @@ Additional supporting packages:
       - Displaying decision tree splits
 
 ### How to run the Notebook
-The Notebook is one file containing all the necessary links and downloads to run the code. To make it work, it is needed to start at the beginning.
+The Notebook is one file containing all the necessary links and downloads to run the code. To make it work, it is needed to start at the beginning since files and functions are used in an accumulative way.
 
 ### References
 Code used from Dr. L. Abzianidze (l.abzianidze@uu.nl).
