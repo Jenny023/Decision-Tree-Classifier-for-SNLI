@@ -28,19 +28,19 @@ Additional supporting packages:
 2. Processing with spaCy
 
 3. Create Features 
-        - Shallow feature functions
-        - Smart features functions
-        - Combining feature functions (sentence-level and problem-level)
+      - Shallow feature functions
+      - Smart features functions
+      - Combining feature functions (sentence-level and problem-level)
    
 4. Training and Evaluation
-       - First evaluation on pre-dev set
-       - Finding optimal hyperparameters with SNLI dev set
-       - Final evaluation on SNLI test set
+      - First evaluation on pre-dev set
+      - Finding optimal hyperparameters with SNLI dev set
+      - Final evaluation on SNLI test set
    
 5. Analysis
-       - Smart feature effectiveness
-       - Shallow feature effectiveness
-       - Displaying decision tree splits
+      - Smart feature effectiveness
+      - Shallow feature effectiveness
+      - Displaying decision tree splits
 
 ### How to run the Notebook
 The Notebook is one file containing all the necessary links and downloads to run the code. To make it work, it is needed to start at the beginning.
