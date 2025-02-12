@@ -21,7 +21,7 @@ Additional supporting packages:
 - tqdm
 
 ### Stucture
-[Reading data](#import-SNLI–splitting-data
+1. Reading data (#import-SNLI–splitting-data
 SNLI dataset import
 Datasplit
 (1) [Processing with spaCy](#obtain-spaCydocs)
