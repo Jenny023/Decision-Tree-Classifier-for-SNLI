@@ -22,8 +22,8 @@ Additional supporting packages:
 
 ### Stucture
 1. Reading data
-              - SNLI dataset import
-              - Datasplit
+      - SNLI dataset import
+      - Datasplit
 
 2. Processing with spaCy
 
