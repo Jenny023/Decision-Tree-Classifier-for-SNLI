@@ -10,17 +10,22 @@ The code is written in a Jupyter Notebook using Google Colab.
 *Necessary datasets*
 - SNLI
 
-*Necessary packages*
-- SpaCy # omschrijven waarvoor gebruikt
-- WordNet
-- SciKit Learn
+*Main packages*
+- Assigntools LoLa (to download and read the SNLI dataset)
+- SpaCy (to annotate sentences with POS tagging, dependency parcsing etc.)
+- NLTK WordNet (library which captures conceptual word meaning via associations)
+- VADER (sentiment analysis tool)
+- SciKit Learn (Decision Tree model)
 
-Additional supporting packages:
+*Additional supporting packages*
 - Numpy
+- NLTK Tree
 - MatplotLib
 - tqdm
+- pandas
+- seaborn
 
-### Stucture
+### Notebook Stucture
 1. Reading data
       - SNLI dataset import
       - Datasplit
