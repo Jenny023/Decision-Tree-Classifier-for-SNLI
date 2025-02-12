@@ -5,7 +5,7 @@ This project explores feature-based approaches for Natural Language Inference (N
 Two types of features, smart and shallow, are extracted in various methods. Some make use of spaCy and WordNet among other Python libraries.
 
 ### Installation & Set-Up
-The code is written in a Jupyter Notebook using Google Colab.
+The code is written in a Python Notebook using Google Colab.
 
 *Necessary datasets*
 - SNLI
